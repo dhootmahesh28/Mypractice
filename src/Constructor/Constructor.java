@@ -1,7 +1,7 @@
 //Constructor
 //Two types of Constructor
-//-Default Constructor
-//-Parameterized Constructor
+//1.Default Constructor
+//2.Parameterized Constructor
 
 //Rules for creating a constructor.
 
