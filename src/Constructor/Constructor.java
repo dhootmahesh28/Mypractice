@@ -1,4 +1,4 @@
-//Constructor
+//Constructor is used in creating of an object that is an instance of a class
 //Two types of Constructor
 //1.Default Constructor
 //2.Parameterized Constructor
